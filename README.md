@@ -165,3 +165,45 @@ First, you should read about [The Front-end Developer Profession &nbsp; 📄 ](h
 There are some tools required for any path such as Basic Terminal Usage (Command line), Git - Version Control & Github.
 
 `Note:`
+
+> **Learn these tools in parallel with the rest of the courses**.
+
+## Basic Terminal Usage (Command line)
+
+The terminal is an interface used to execute text commands, and it gives you access to the underlying operating system. Basic terminal usage is a skill all developers need regardless of their specialization. Command line is very important so I strongly recommend you study more on how to use it.
+
+> If you are on windows like me, I recommend using [git bash](https://git-scm.com/downloads).
+
+**Here are some resources to learn command line:**
+
+- [Learn Command Line &nbsp; 🎬📃🎬 ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [Command Line Crash Course - Freecodecamp &nbsp; 🎬 ](https://youtu.be/yz7nYlnXLfE)
+- [Command line crash course &nbsp; 📄 ](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+
+## Git - Version Control
+
+Git is a version control system that enables developers to track changes in their project. Git also helps developers collaborate as a team. Git is needed among developers, to ensure that there are no code conflicts between developers.
+
+## Github
+
+GitHub is a code hosting platform for software development. GitHub lets teams work together on projects and it is also used for version control. It can be used among teams to collaborate on a project. For example, a team of developers wants to build a web application and everyone is given a task that has to be updated daily while working on the project, in this case, Github helps them build a centralized repository where each team member can make updates or manage the code file or repository.
+
+<br />
+
+**Here are some resources to learn Git & GitHub:**
+
+- [Git Handbook - Github guides &nbsp; 📄 ](https://guides.github.com/introduction/git-handbook/)
+- [Git Videos &nbsp; 🎬📃🎬 ](https://git-scm.com/videos)
+- [Git Cheat Sheet repo 📄](https://github.com/FADL285/git-cheat-sheet)
+- [Git book - Git &nbsp; 📄 ](https://git-scm.com/book/en/v2)
+- [Github Guides &nbsp; 📄 ](https://guides.github.com/activities/hello-world/)
+- [Version Control with Git - Udacity &nbsp; 🎬📃🎬 ](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Introduction to Git and GitHub from Google &nbsp; 🎬📃🎬 ](https://www.coursera.org/learn/introduction-git-github)
+- [An introduction to Git - Freecodecamp &nbsp; 📄 ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+- [Git & GitHub Arabic Tutorial &nbsp; 🎬📃🎬](https://www.youtube.com/playlist?list=PLqPejUavRNTXejD5npdmFbe6NU6dTJLhW) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [Learn Git and GitHub &nbsp; 🎬📃🎬 ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [learn Git in Arabic &nbsp; 🎬📃🎬](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; 🎬 ](https://youtu.be/8JJ101D3knE)
+- [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; 🎬 ](https://youtu.be/RGOj5yH7evk)
+
+---
