@@ -207,3 +207,41 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 - [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; 🎬 ](https://youtu.be/RGOj5yH7evk)
 
 ---
+
+# Basic tools
+
+<div align="center">
+  <p>Basic tools to get start.</p>
+
+  <table>
+    <thead align="center">
+      <tr>
+        <td><b>Text Editor :writing_hand:</b></td>
+        <td><b>Browser :globe_with_meridians:</b></td>
+        <td><b>:man_technologist: Terminal</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></a></td>
+        <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></a></td>
+        <td><a href="https://git-scm.com/downloads" target="_blank"><b>Git Bash :ballot_box_with_check:</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
+        <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
+        <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
+        <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></a></td>
+        <td><a href="https://hyper.is/" target="_blank"><b>Hyper</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  [Code Editors resources 📄](https://frontendmasters.com/guides/learning-roadmap/code-editors/)
+
+</div>
+
+---
