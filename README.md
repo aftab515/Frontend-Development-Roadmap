@@ -280,7 +280,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 </div>
 
 <p align="center">
-  <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
+  <img src="./image/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
 </p>
 
 ## HTML:
