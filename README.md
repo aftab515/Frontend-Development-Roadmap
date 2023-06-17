@@ -245,3 +245,124 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 </div>
 
 ---
+
+# Level One:
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <td colspan="3"><b>🗺️ Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#html"><b>1- HTML</b></a>
+        </td>
+        <td>
+          <a href="#css"><b>2- CSS</b></a>
+        </td>
+        <td>
+          <a href="#html--css---resources--practice"><b>3- HTML & CSS - (resources & practice)</b></a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="#javascript"><b>4- JavaScript</b></a>
+        </td>
+        <td>
+          <a href="#accessibility"><b>5- Accessibility</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="center">
+  <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
+</p>
+
+## HTML:
+
+HTML stands for Hypertext Markup Language. It is the markup language for building web pages, it is also the building block of the web. HTML is easy to learn and comprehend. With just HTML, you can build a basic website.
+
+**Here are some resources to learn HTML:**
+
+- [Learning resources and tools for HTML - Front-End Masters 📄](https://frontendmasters.com/guides/learning-roadmap/html/) ✨💫
+- [Learn HTML - Elzero Web School 📄](https://elzero.org/learn-html/) ✨💫
+  - [Learn HTML In Arabic 2021 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+  - [HTML Study Plan 📄](https://elzero.org/study/html-2021-study-plan/)
+  - [HTML Assignments 📄](https://elzero.org/category/assignments/html-assignments/)
+- [MDN - HTML 📄](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Learn HTML - web.dev 📄](https://web.dev/learn/html/) `recommended`
+- [Learn Forms - web.dev 📄](https://web.dev/learn/forms/) `recommended`
+- [HTML Full Course - Freecodecamp 🎬](https://youtu.be/pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media 🎬](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
+> For writing maintainable and scalable HTML documents, check this repo [HTML Best Practices](https://github.com/hail2u/html-best-practices)
+
+---
+
+## CSS:
+
+CSS stands for Cascading Style Sheets. It is the technology to learn after HTML. It is used for styling our HTML. For example, we can use CSS to space our content, colours, fonts, etc.
+
+**Here are some resources to learn CSS:**
+
+- [Learn CSS - Elzero Web School 📄](https://elzero.org/learn-css/) ✨💫
+    - [Learn CSS In Arabic 2021 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+    - [CSS Study Plan 📄](https://elzero.org/study/css-2021-study-plan/)
+    - [CSS Assignments 📄](https://elzero.org/category/assignments/css-assignments/)
+- [MDN - CSS 📄](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Web.dev - Learn CSS 📄](https://web.dev/learn/css/) ```recommended```
+- [Web.dev - Learn Responsive Design 📄](https://web.dev/learn/design/) ```recommended```
+
+> 💡 Take a look at this repository - [Awesome-CSS-Learning](https://github.com/FADL285/Awesome-CSS-Learning) - A tiny list limited to the best CSS Learning Resources.
+
+<br />
+
+**The basics of CSS you need to learn are:**
+
+- Basics, Box Model, Colors & Gridents, Units :arrow_right: [CSS Fundamentals 📄](https://frontendmasters.com/guides/learning-roadmap/css-fundamentals)
+- Flow, Positioning, Floats, Flex box, Grids :arrow_right: [CSS Layout 📄](https://frontendmasters.com/guides/learning-roadmap/css-layout/)
+- Responsive Design & Media Queries :arrow_right: [CSS Media Queries 📄](https://frontendmasters.com/guides/learning-roadmap/css-media-queries/)
+- Animations :arrow_right: [CSS Transitions, Transforms & Animation 📄](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
+- Web Fonts, CSS Icons, Google Fonts :arrow_right: [CSS Fonts & Icons 📄](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
+- CSS Variables & CSS Practices :arrow_right: [CSS Practices 📄](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+
+---
+
+## HTML & CSS - (Resources & Practice)
+
+In this section, I will recommend some paid courses and YouTubevideos that explain and build websites using HTML and CSS.
+Plus some websites to practice what you've learned.
+
+**Here are some Paid Courses for HTML & CSS:** 🎬📃🎬 :dollar::dollar: <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) :arrow_right: `exclude sass from it now`
+- [CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) :arrow_right: `exclude sass from it now`
+
+<br />
+
+**Here are some YouTubeVideos for building templates with HTML & CSS:** <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- [Practical HTML & CSS - Elzero Web School 📄](https://elzero.org/practical-html-css/)
+    - [HTML And CSS Template 1 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+    - [HTML And CSS Template 2 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+    - [HTML And CSS Template 3 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Design Template Using ( HTML 5 - CSS 3 ) - Unique Coderz Academy 🎬📃🎬](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFq3C3I7sKHjXbFru4rx8qs) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Design Responsive Template Using ( HTML - CSS - Media Query ) - Unique Coderz Academy 🎬📃🎬](https://www.youtube.com/playlist?list=PLtFbQRDJ11kG7W2TmVs4gr9FqmZ0Ui551) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [Build a Responsive Website | HTML, CSS Grid, Flexbox & More 🎬](https://youtu.be/p0bGHP-PXD4)
+    - [Build a Modern Landing Page Website | HTML & CSS 🎬](https://youtu.be/X1dz0xRbSJc)
+    - [Build An HTML5 Website With A Responsive Layout 🎬](https://youtu.be/Wm6CUkswsNw)
+    - [Pluralsight Login Page Clone - HTML & CSS 🎬](https://youtu.be/wIx1O5Y5EB4)
+- [How To Make Website Using HTML & CSS | Full Responsive - Easy Tutorials 🎬📃🎬](https://youtu.be/oYRda7UtuhA)
+
+<br />
+
+- [ Frontend Masters Web Development Bootcamp ](https://frontendmasters.com/bootcamp/) -> ```included JS```
+
+<br />
