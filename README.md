@@ -366,3 +366,12 @@ Plus some websites to practice what you've learned.
 - [ Frontend Masters Web Development Bootcamp ](https://frontendmasters.com/bootcamp/) -> ```included JS```
 
 <br />
+
+**Some challenges for what you have learned, Try** 🦾🦾😃
+- [Flexbox Defense Game](http://www.flexboxdefense.com/)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&difficulties=1,2&languages=HTML|CSS&types=free)
+- [Codewell](https://www.codewell.cc/challenges)
+- [CSS Battle](https://cssbattle.dev/)
+- [100 Days CSS](https://100dayscss.com/)
+
+<br />
