@@ -375,3 +375,48 @@ Plus some websites to practice what you've learned.
 - [100 Days CSS](https://100dayscss.com/)
 
 <br />
+
+> After Learning HTML & CSS read this :arrow_right: [HTML Interview Questions 📄](https://www.interviewbit.com/html-interview-questions/) & [CSS Interview Questions 📄](https://www.interviewbit.com/css-interview-questions/)
+
+---
+
+## JavaScript:
+
+JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
+
+> 💡💡 Learning Javascript and practicing on it continues with you to the end of the path and will not end.
+
+**On this level, we will learn the basics of JavaScript**
+- [JavaScript Fundamentals](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
+- [DOM Manipulation & BOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
+- AJAX, Fetch API and JSON
+- [ES6+ & Modular JS](https://frontendmasters.com/guides/learning-roadmap/javascript-modules-scripts/)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Object-oriented Programming (OOP)](https://frontendmasters.com/guides/learning-roadmap/js-oop/)
+- [Regular Expressions (Regex)](https://frontendmasters.com/guides/learning-roadmap/javascript-regular-expressions/) `general skill`
+- JavaScript Algorithms and Data Structures | Design Patterns
+
+<br />
+
+**Here are some resources to learn JavaScript:**
+
+- [MDN - JavaScript 📄](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
+- [Learn JavaScript - Elzero Web School 📄](https://elzero.org/learn-javascript/) ✨💫
+  - [Learn JavaScript In Arabic 2021 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [JavaScript Samurai كورس جافاسكربت من الصفر حتى الاحتراف 🎬📃🎬](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [JavaScript.INFO 📄](https://javascript.info/intro)
+- [Eloquent JavaScript 📕](https://eloquentjavascript.net/)
+- [Learn JavaScript - Freecodecamp 🎬](https://youtu.be/PkZNo7MFNFg)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [JavaScript Crash Course For Beginners 🎬](https://youtu.be/hdI2bqOjy3c)
+    - DOM Crash Course [Part #1 🎬](https://youtu.be/0ik6X4DJKCc) - [Part #2 🎬](https://youtu.be/mPd2aJXCZ2g) - [Part #3 🎬](https://youtu.be/wK2cBMcDTss)     - [Part #4 (Final Project) 🎬](https://youtu.be/i37KVt_IcXw)
+    - [Fetch API Introduction 🎬](https://youtu.be/Oive66jrwBs)
+    - [JSON Crash Course 🎬](https://youtu.be/wI1CWzNtE-M)
+    - [JavaScript OOP Crash Course (ES5 & ES6) 🎬](https://youtu.be/vDJpGenyHaA)
+- [JavaScript Tutorial for Beginners - Clever programmers 🎬](https://youtu.be/Qqx_wzMmFeA)
+- [JavaScript Tutorial for Beginners - Programming with Mosh 🎬](https://youtu.be/W6NZfCO5SIk)
+- [30 Days of JavaScript repo 📄](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+> 💡 Take a look at this repository - [Awesome-JavaScript-Learning](https://github.com/FADL285/Awesome-JavaScript-Learning) - A tiny list limited to the best JavaScript Learning Resources.
+
+<br />
