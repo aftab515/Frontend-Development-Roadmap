@@ -420,3 +420,27 @@ JavaScript is one of the most popular programming languages in the world. It is 
 > 💡 Take a look at this repository - [Awesome-JavaScript-Learning](https://github.com/FADL285/Awesome-JavaScript-Learning) - A tiny list limited to the best JavaScript Learning Resources.
 
 <br />
+
+
+**Here are some resources to learn Regular Expressions (Regex):**
+
+- [Regular Expressions Demystified 🎬📃🎬](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [Regular Expression tutorial - Arabic 🎬📃🎬](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" /> `The implementation is not in JavaScript but explains the concept of Regex in a nice way`
+- [Regular Expressions (RegEx) Tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [Regular expressions - MDN 📄](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+<br />
+
+**Here are some YouTubeVideos for practice on JavaScript.:**
+
+- [JavaScript Practice - Elzero Web School 📄](https://elzero.org/javascript-practice/)
+- [HTML | CSS | JavaScript | Projects - Shadow Coding 🎬📃🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Build 15 JavaScript Projects - Vanilla JavaScript Course - FreeCodeCamp 🎬](https://youtu.be/3PHXvlpOkf4)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [Build 5 Projects With HTML, CSS & JavaScript 🎬](https://youtu.be/JkeyKeK3V24)
+    - [Build a Netflix Landing Page Clone with HTML, CSS & JS 🎬](https://youtu.be/P7t13SGytRk)
+- [Learn JavaScript by Building 7 Games - Full Course - FreeCodeCamp 🎬](https://youtu.be/lhNdUVh3qCc)
+- [Build A Weather App in HTML CSS & JavaScript | Weather App in JavaScript 🎬](https://youtu.be/c1r-NqYkFPc)
+- [Build A Music App With Javascript Tutorial 🎬](https://youtu.be/2VJlzeEVL8A)
+
+<br />
