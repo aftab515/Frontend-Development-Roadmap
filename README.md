@@ -444,3 +444,29 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [Build A Music App With Javascript Tutorial 🎬](https://youtu.be/2VJlzeEVL8A)
 
 <br />
+
+**Here are some Paid Courses for JavaScript:** 🎬📃🎬 :dollar::dollar: <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- [JavaScript - The Complete Guide 2021 (Beginner + Advanced) 🎬📃🎬](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) ✨💫
+- [Modern JavaScript (Complete guide, from Novice to Ninja) 🎬📃🎬](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
+- [Modern JavaScript From The Beginning  🎬📃🎬](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+- [50 Projects In 50 Days - HTML, CSS & JavaScript  🎬📃🎬](https://www.udemy.com/course/50-projects-50-days/)
+
+<br />
+
+**Here are some resources to learn JavaScript Algorithms, Data Structures and Design Patterns:**
+
+- [JavaScript Algorithms and Data Structures - freeCodeCamp 📄](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [JavaScript Algorithms and Data Structures Masterclass 🎬📃🎬  💵💵](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Master the Coding Interview: Data Structures + Algorithms 🎬📃🎬  💵💵](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Data Structure : JavaScript (leetcode problem-solving) - Shadow Coding 🎬📃🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [JavaScript Algorithms and Data Structures 🎬📃🎬](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [Learning JavaScript Design Patterns 📄](https://www.patterns.dev/posts/classic-design-patterns/)
+- [JavaScript Design Patterns – Explained with Examples 📄](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+- [Design Patterns | javascript 🎬📃🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+
+<br />
+
+> After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions 📄](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions 📄](https://www.toptal.com/javascript/interview-questions)
+
+---
