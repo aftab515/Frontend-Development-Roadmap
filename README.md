@@ -470,3 +470,52 @@ JavaScript is one of the most popular programming languages in the world. It is 
 > After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions 📄](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions 📄](https://www.toptal.com/javascript/interview-questions)
 
 ---
+
+## Accessibility:
+
+Digital accessibility, commonly abbreviated a11y, is about designing and building websites and web apps that disabled people can interact with in a meaningful and equivalent way.
+
+**Here are some resources to learn HTML:**
+
+- [Learn Accessibility - Web.dev 📄](https://web.dev/learn/accessibility/) ✨💫
+- [Learn Accessibility - MDN 📄](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+- [Web Accessibility - Udacity 🎬📃🎬](https://www.udacity.com/course/web-accessibility--ud891)
+- [Web Accessibility: Getting Started - pluralsight 🎬📃🎬](https://www.pluralsight.com/courses/web-accessibility-getting-started)
+
+---
+
+# Level Two:
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <td colspan="4"><b>🗺️ Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#Web-Developer-Tools"><b>1- Web Developer Tools</b></a>
+        </td>
+        <td>
+          <a href="#Package-Managers"><b>2- Package Managers</b></a>
+        </td>
+        <td>
+          <a href="#CSS-Architecture"><b>3-CSS Architecture</b></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="#CSS-Preprocessors"><b>4-CSS Preprocessors</b></a>
+        </td>
+        <td>
+          <a href="#CSS-Frameworks"><b>5- CSS Frameworks (CSS UI Toolkits)</b></a>
+        </td>
+        <td>
+          <a href="#JavaScript-Libraries"><b>6-JavaScript Libraries</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
