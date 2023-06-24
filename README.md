@@ -544,3 +544,16 @@ a package manager is a piece of software that lets you manage the dependencies (
     - [Yarn crash course in Arabic 🎬](https://youtu.be/1Sjhc09Q7f8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
 
 ---
+
+
+## CSS Architecture:
+
+[BEM](http://getbem.com) methodology gives your CSS code a solid structure that remains simple, easy to understand and easy to modify
+
+**Learning Resources**:
+-  [BEM 📄](http://getbem.com/introduction/)
+-  [BEM Cheat Sheet 📄](https://9elements.com/bem-cheat-sheet/)
+-  [Organize your CSS code using BEM 🎬](https://youtu.be/QtX-fPHUSpM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+-  [You Probably Need BEM CSS in Your Life (Tutorial) 🎬](https://youtu.be/er1JEDuPbZQ)
+
+---
