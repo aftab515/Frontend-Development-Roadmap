@@ -557,3 +557,21 @@ a package manager is a piece of software that lets you manage the dependencies (
 -  [You Probably Need BEM CSS in Your Life (Tutorial) 🎬](https://youtu.be/er1JEDuPbZQ)
 
 ---
+
+## CSS Preprocessors:
+
+CSS preprocessors are scripting languages that extend the default capabilities of CSS. They enable us to use logic in our CSS code, such as variables, nesting, inheritance, mixins, functions, and mathematical operations. CSS preprocessors make it easy to automate repetitive tasks, reduce the number of errors and code bloat, create reusable code snippets, and ensure backward compatibility.
+
+**Sass** is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. Sass consists of two syntaxes (sass/scss).
+
+**Learning Resources**:
+- [Sass Docs 📖](https://sass-lang.com/documentation)
+- [Sass Fundamentals 🎬📃🎬  💵💵](https://frontendmasters.com/courses/sass/)
+- [Learn Sass - Elzero Web School 📄](https://elzero.org/study/sass-2021-study-plan/) ✨💫
+  - [Learn SASS In Arabic 2021 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Sass Tutorial for Beginners - CSS With Superpowers 🎬](https://youtu.be/_a5j7KoflTs)
+- [Sass and BEM for beginners 🎬](https://youtu.be/jfMHA8SqUL4)
+- [Create Web Design With Sass 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [SASS Tutorial (Build Your Own CSS Library) 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+
+---
