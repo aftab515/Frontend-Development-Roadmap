@@ -575,3 +575,15 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 - [SASS Tutorial (Build Your Own CSS Library) 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
 
 ---
+
+
+## CSS Frameworks:
+
+**Utility Toolkits**
+- [Tailwind CSS 📖](https://tailwindcss.com/)
+  - [Official Screencasts](https://www.youtube.com/c/TailwindLabs/videos) 
+  - [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours 🎬](https://youtu.be/lCxcTsOHrjo)
+  - [Tailwind CSS Course🎬📃🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+  - [Tailwind CSS Tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+  - [Laracasts Tailwind](https://laracasts.com/topics/tailwind)
+
