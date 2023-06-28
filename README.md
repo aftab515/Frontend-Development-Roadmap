@@ -595,3 +595,49 @@ CSS preprocessors are scripting languages that extend the default capabilities o
     - [Bootstrap 5 Crash Course | Website Build & Deploy 🎬](https://youtu.be/4sosXZsdy-s)    
 
 ---
+
+## JavaScript Libraries:
+
+A JavaScript library is a library of pre-written JavaScript code that allows for easier development.
+
+> 💡 Search about what you want, and you will find a library to do it. 
+
+**Articles about recommended js libraries:**:
+- [10 Awesome JavaScript Libraries You Should Try Out in 2021 📄](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
+- [39 of the best JavaScript libraries and frameworks to try in 2021 📄](https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/)
+
+---
+
+# Level Three:
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <td colspan="3"><b>🗺️ Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#Module-Bundlers"><b>1-Module Bundlers</b></a>
+        </td>
+        <td colspan="2">
+          <a href="#JavaScript-Frameworks"><b>2-JavaScript Frameworks</b></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="#Testing"><b>3-Testing</b></a>
+        </td>
+        <td>
+          <a href="#TypeScript"><b>4-TypeScript</b></a>
+        </td>
+        <td>
+          <a href="#Progressive-Web-Apps"><b>5-Progressive Web Apps (PWA)</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
