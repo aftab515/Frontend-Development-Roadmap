@@ -641,3 +641,28 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
   </table>
 </div>
 
+## Module Bundlers:
+
+A JavaScript module bundler compiles small pieces of code (aka modules) into something larger and more complex, such as a library or application.
+
+**Learning Resources**:
+
+- [Vite 📖](https://vitejs.dev/)
+    - [Learn Vite with Evan You 🎬](https://youtu.be/DkGV5F4XnfQ)
+- [Webpack 📖](https://webpack.js.org/)
+    - [Webpack 5 tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+    - [How to use Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+
+---
+
+## JavaScript Frameworks:
+
+> In this section, you will learn about **JavaScript Frameworks**, **JavaScript State Management** and **Server side rendering**.
+
+**JavaScript frameworks:**
+
+JavaScript frameworks are tools designed to speed up development and organize code used to build modern web apps. They exist to solve problems more directly rather than providing an open set of tools like most libraries do.  Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs require framework experience.
+
+**JavaScript State Management:**
+
+State Management helps in updating the UI in related places when there is a change in the application data due to action performed in the application like click, hover, etc. It also helps in making sure that state changes have been incorporated at corresponding places.
