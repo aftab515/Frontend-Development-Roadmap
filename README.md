@@ -666,3 +666,35 @@ JavaScript frameworks are tools designed to speed up development and organize co
 **JavaScript State Management:**
 
 State Management helps in updating the UI in related places when there is a change in the application data due to action performed in the application like click, hover, etc. It also helps in making sure that state changes have been incorporated at corresponding places.
+
+**Server side rendering:**
+
+Server-side rendering (SSR), is the ability of an application to contribute by displaying the web-page on the server instead of rendering it in the browser. Server-side sends a fully rendered page to the client; the client's JavaScript bundle takes over which then allows the Vue.js app to hydrate.
+
+---
+
+**Top 3 Javascript Frameworks:**
+
+- [Vue](https://vuejs.org/)
+- [React](https://reactjs.org/)
+- [Angular](https://angular.io/)
+
+
+> 💡 Before you start learning a framework I recommend watching this [tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn). <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" /> and this [tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PLVvjrrRCBy2IDt1Hm8NAiRl_6_io8aS6b).
+
+
+**Learning Resources for Vue.js**:
+
+- [Vue Docs 📖](https://vuejs.org/)
+- [Vue School](https://vueschool.io/)
+- [Vue Mastery](https://www.vuemastery.com/)
+- [Vue Router 📖](https://router.vuejs.org/) -> `Ecosystem: The official Router for Vue.js`
+- [Pinia Docs 📖](https://pinia.vuejs.org/) -> `Ecosystem: The intuitive store for Vue.js`
+- [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬📃🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- [Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest) 🎬📃🎬  💵💵](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/)
+- [Vue 3 Crash Course | Project From Scratch 🎬](https://youtu.be/KTFH4P8unUQ)
+- [The Ultimate Vue 3 Tutorial (100% Composition API) 🎬](https://youtu.be/I_xLMmNeLDY)
+- [Build with Ben: Vue 3 and TypeScript Working Session 🎬](https://youtu.be/p1eO5dZnp_Q)
+- [Vue JS 3 Tutorial for Beginners 🎬📃🎬](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" /><img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [Vue.js 3 Tutorial - The Net Ninja 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" /><img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [Vue.js Tutorial: Beginner to Front-End Developer 🎬](https://youtu.be/1GNsWa_EZdw)
