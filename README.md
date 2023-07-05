@@ -698,3 +698,18 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Vue JS 3 Tutorial for Beginners 🎬📃🎬](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" /><img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
 - [Vue.js 3 Tutorial - The Net Ninja 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" /><img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
 - [Vue.js Tutorial: Beginner to Front-End Developer 🎬](https://youtu.be/1GNsWa_EZdw)
+
+**Learning Resources For NuxtJS**:
+
+NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can be useful to creating maintainable applications, even if you don’t use any of the Server Side Rendering features it provides.
+
+- [NuxtJS 📖](https://nuxtjs.org/)
+- [Nuxt.js 3 Fundamentals 🎬📃🎬 💵](https://vueschool.io/courses/nuxt-js-3-fundamentals)
+- [Mastering Nuxt 3 🎬📃🎬 💵](https://masteringnuxt.com/)
+- [Nuxt 3 Tutorial - The Net Ninja 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
+- [The Nuxt 3 Crash Course 🎬](https://youtu.be/dZC4T4UiU1c)
+- [Nuxt 3 - Building a Complete Project 🎬](https://youtu.be/B6hmetsV3yI)
+- [Nuxt 3 full course build and deploy 🎬](https://youtu.be/5dQMQ1BwUyc)
+- [Learn Nuxt 3 — Full course for beginners 2023 🎬](https://youtu.be/ww94Jvi8JJo)
+
+---
