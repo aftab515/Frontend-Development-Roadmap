@@ -713,3 +713,21 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 - [Learn Nuxt 3 — Full course for beginners 2023 🎬](https://youtu.be/ww94Jvi8JJo)
 
 ---
+
+## Testing:
+
+Learn the difference between Unit, Integration, and Functional tests and learn how to write them.
+
+**Learning Resources For unit testing with Vitest**:
+- [Vitest Docs 📖](https://vitest.dev/)
+  - [Learn Vitest and Testing Library In 40 Minutes 🎬](https://youtu.be/FJRuG85tXV0)
+  - [Fast Unit Testing With Vitest 🎬](https://youtu.be/FDEf3iWEgFI)
+
+**Learning Resources For unit testing with Jest**:
+- [Jest Docs 📖](https://jestjs.io/)
+- [JavaScript Unit Testing With Jest 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [Jest Cheatsheet - Devhints 📄](https://devhints.io/jest)
+
+> [JavaScript Unit Testing - The Practical Guide 🎬📃🎬💵💵](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/) - Learn how to write automated tests (unit & integration tests) with Vitest & Jest.  
+
+---
