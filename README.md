@@ -731,3 +731,55 @@ Learn the difference between Unit, Integration, and Functional tests and learn h
 > [JavaScript Unit Testing - The Practical Guide 🎬📃🎬💵💵](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/) - Learn how to write automated tests (unit & integration tests) with Vitest & Jest.  
 
 ---
+
+## TypeScript:
+TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+
+**Visit the following resources to learn more:**
+
+- [What Is TypeScript? 📄](https://thenewstack.io/what-is-typescript/)
+- [Official Website 📖](https://www.typescriptlang.org/)
+- [Learn TypeScript - Elzero Web School 📄](https://elzero.org/study/typescript-study-plan/) ✨💫
+  - [Learn TypeScript In Arabic 2022 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" /> 
+- [TypeScript Course for Beginners - Learn TypeScript from Scratch! 🎬](https://youtu.be/BwuLxPH8IDs)
+- [Learn TypeScript – Full Tutorial 🎬](https://youtu.be/30LWjhZzg50)
+- [Understanding TypeScript 🎬📃🎬 💵💵](https://www.udemy.com/course/understanding-typescript/)
+
+---
+
+## Progressive Web Apps:
+
+- What is PWA? [Web.dev 📄](https://web.dev/what-are-pwas/)
+
+**Learning Resources:**
+
+- [Progressive Web Apps 📄](https://web.dev/progressive-web-apps/)
+- [Learn PWA - web.dev 📄](https://web.dev/learn/pwa/)
+- [PWA Tutorial for Beginners 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+- [Progressive Web Apps (PWA) - The Complete Guide 🎬📃🎬  💵💵](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
+
+---
+
+# What Next:
+
+Always Keep Learning, Practice more, and don't stop.
+
+---
+
+<br />
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://github.com/FADL285">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/FADL285">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/FADL285">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Mohamed.Fadl2852@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
