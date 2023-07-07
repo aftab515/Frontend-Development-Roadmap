@@ -770,7 +770,7 @@ Always Keep Learning, Practice more, and don't stop.
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://github.com/atab515">
+  <a target="_blank"href="https://github.com/aftab515">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/aftab-sadiq-alpha0009/">
